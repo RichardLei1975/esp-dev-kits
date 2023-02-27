@@ -6,6 +6,7 @@ A GUI demo designed for smart control panel which is usually used fo wall-mounte
 
 ### Hardware Required
 
+* Apply IDF Patch first, Ignore when patch is applied.(https://github.com/espressif/esp-dev-kits/blob/master/esp32-s3-lcd-ev-board/factory/README.md)
 * An ESP32-S3-LCD-EV-Board development board
 * An USB Type-C cable for Power supply and programming
 
